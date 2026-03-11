@@ -1,5 +1,4 @@
-//Tromaine Toy
-//Unit 3 Weekly Net Pay
+//Weekly Net Pay
 //Calculates the weekly net pay of an hourly employee
 
 #include <iostream>
@@ -40,3 +39,5 @@ int main()
 	cout << "Net Pay: $"          << netPay << endl;
 	return 0;
 }
+
+
